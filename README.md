@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **R-Programming, Python**
 
-- 👨‍💻 All of my projects are available at [(to be updated)]((to be updated))
+- 👨‍💻 All of my projects are available at [(to be updated)]
 
 - 💬 Ask me about **Excel, PBI, SQL**
 
-- 📫 How to reach me **gleanmike@gmail.com**
+- 📫 How to reach me: **gleanmike@gmail.com**
 
-- ⚡ Fun fact **I am Ambivert :)**
+- ⚡ Fun fact: **I am Ambivert :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
